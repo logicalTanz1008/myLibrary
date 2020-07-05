@@ -1,2 +1,2 @@
-# myLibrary
-We created our own library using our user defined functions.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
